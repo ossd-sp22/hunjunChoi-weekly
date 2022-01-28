@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello 👋 I am a senior at NYU majoring Computer Science in the College of Arts & Science.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I also pursue Data Science and Business Studies as minors, and in love with Apple ecosystem. 
 
