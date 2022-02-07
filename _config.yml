@@ -13,9 +13,11 @@ description: Senior CS major's Blog for Open Source Software Development (Spring
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:  https://github.com/hunjunChoi.png # images/icon.png 
+avatar: https://github.com/hunjunChoi.png # images/icon.png
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Github Avatar
+
+excerpt_separator: <!--more-->
 
 # CUSTOMIZE
 #
@@ -24,18 +26,18 @@ avatar_alt_text: Github Avatar
 #
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: hunjunChoi
-  instagram:
-  linkedin:
-  pinterest:
-  twitter:
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+    dribbble:
+    email:
+    facebook:
+    flickr:
+    github: hunjunChoi
+    instagram:
+    linkedin:
+    pinterest:
+    twitter:
+    stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+    youtube: # channel/<your_long_string> or user/<user-name>
+    googleplus: # anything in your profile username that comes after plus.google.com/
 
 # CUSTOMIZE
 # Your website URL (e.g. https://ossd-sp22.github.io/weekly )
@@ -64,25 +66,25 @@ version: v1.2.0
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
-  input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+    # Use GitHub flavored markdown, including triple backtick fenced code blocks
+    input: GFM
+    # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+    syntax_highlighter: rouge
+    syntax_highlighter_opts:
+        # Use existing pygments syntax highlighting css
+        css_class: "highlight"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+    style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+    - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+    - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
 # Exclude these files from your production _site
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE

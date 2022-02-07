@@ -1,0 +1,64 @@
+I"�<h1 id="week-1-welcome-open-source-software">Week 1: Welcome Open Source Software</h1>
+
+<ul>
+  <li>Nice to meet you Open Source
+    <ul>
+      <li>The term Open source first came to mind almost straightforwardly as a combination of words “Open” and “Source”. From the past computer science courses and personally prowling around the internet, abundant times programmers encounter the term “source code”, which is the foundational code of a program that is human readable. Although burgeoning advncements in programming and machine intellect have led to the point in which computer is capable of composing the code base for a particular program, programmers’ effort still significantly contribute to developing the fundamental source code due to a program’s complexity in its nature. Considering a source code written by a human or team of humans that is opened, it is safe to assume that such code is publicly available to anyone who intends on utilizing others’ endeavors to broaden the scope of the program’s application adopted to one’s appetite. If the owner of the program released their source code on a limitlessly accessible domain such as GitHub, it isn’t a malicious attempt to take the code for granted and discretionally customize the software for one’s purpose. Nonetheless, that idea is not completely appropriate. Just after a week of learning about Open Source Software, the license is the critical component of distributing source code and all developers must adhere to the original author’s terms of the license.</li>
+    </ul>
+  </li>
+  <li>Open &lt;=&gt; Close
+    <ul>
+      <li>On the very opposite side, there is Closed Source Software often goes by the name of Proprietary Software. As the name suggests Closed Source distributes source codes with restrictions to amend, copy and redistribute the code. Such source codes are not publicly available and any programmers granted access must abide by the original author’s, often a company’s, terms of the license.</li>
+    </ul>
+  </li>
+  <li>Some advantages of using either one
+    <ol>
+      <li><strong>Flexibility</strong>
+        <ul>
+          <li>Open Source Software is usually free, in terms of liberty in access rather than the cost of software, such that programmers have the freedom to manipulate the code as they wish. Since a large pool of developers can inspect and alter the source code, the software can incorporate previously non-existed features which promote innovations. Note that superinduced services can be incompatible or unsafe for end-users because developers are strangers who use different languages or structures apart from the initially controlled environment set by the owner.</li>
+        </ul>
+      </li>
+      <li><strong>Security</strong>
+        <ul>
+          <li>Users of the software can benefit from the security of Closed Source Software offered by a company. In contrast to the unsupervised characteristic of Open Source, Closed Source is oversight by a team of programmers reaching for the same business goal that targets its consumers. With continuously ongoing communication between the team of developers, Closed Source Softwares are generally reliable, routinely updated, managed, and guidance provided to reduce the risk of compromising evil breaches, which support users with comfortable use of the software.</li>
+        </ul>
+      </li>
+    </ol>
+  </li>
+  <li>Potential problem with Open Source
+    <ul>
+      <li>Is the <strong>quality</strong> of software. When improving an Open Source, contributors don’t have a central point of communication where they can discuss the status of the current version of the software and its stability other than a social place on the web. Different agendas of reinforcement from different programmers may induce incompatibility issues that can halt the progress of a program. Furthermore, the background of developers isn’t usually validated such that a person with harmful intention might introduce a system breach that exposes every user to hazard.</li>
+    </ul>
+  </li>
+  <li>Conclusion
+    <ul>
+      <li>Even with the trade-off of pursuing Open Source, copious software in their early development seeks third-party prodigious assistance from all around the world. As a desire to become a software engineer, it is important to work as a team and move forward with the team. Personally, grasping an insight into the world of Open Source will help one without prior interactions with others in coding a program to grow and be mature allowing one to become a more sophisticated programmer. Open Source could enlarge one’s vision to catch the critical aspect of a program when skimming through thousands of lines of code and observe and learn from others’ rationale behind the particular layout of a code. I look forward to all the knowlege that will be given throughout the semester.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="open-source-projects">Open Source projects</h2>
+
+<ul>
+  <li>Oh My Zsh
+    <ul>
+      <li>Oh My Zsh is an open-source project for command-line configuration and management that enriches the command line interface with various themes, plugins, and functions. Through the framework, users can benefit from features such as syntax highlight, auto-completion, and spelling correction.</li>
+    </ul>
+  </li>
+  <li>Visual Studio code
+    <ul>
+      <li>Extremely renowned IDE for web development. VS Code can install diverse plugins and extensions that enable programmers to complete their tasks in hand without leaving the editor by supporting cross-platform compatibility, multiple programming languages, etc.</li>
+    </ul>
+  </li>
+  <li>PostgreSQL
+    <ul>
+      <li>PostgreSQL is an enterprise-class, open-source relational database system. The relational database is highly extensible and possesses extremely robust performance, which accepts both SQL and JSON format and syntax. Personally used the database extensively during Fall 2021.</li>
+    </ul>
+  </li>
+  <li>Node.js
+    <ul>
+      <li>Node.js is a server-side platform for the JavaScript environment. The platform is popular for its fast execution and high scalability. I’ve started using Node.js since the start of Spring 2022 and anticipate enjoying its functionality.</li>
+    </ul>
+  </li>
+</ul>
+:ET
