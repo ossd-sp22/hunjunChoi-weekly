@@ -13,7 +13,8 @@ description: Senior CS major's Blog for Open Source Software Development (Spring
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/hunjunChoi.png # images/icon.png
+avatar: https://ossd-sp22.github.io/hunjunChoi-weekly/images/hunjunChoi.png # images/icon.png
+# https://github.com/hunjunChoi.png
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Github Avatar
 
